@@ -29,7 +29,7 @@ La medición se realiza mediante el sensor GUVA-S12SD y el procesamiento está a
 | Fuente de alimentación | Alimentación del sistema |
 | Cables y conexiones | Interconexión electrónica |
 
-## 🔌 Conexiones
+## Conexiones
 
 ### Sensor GUVA-S12SD
 
