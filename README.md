@@ -1,6 +1,6 @@
 # Solmáforo – Sistema de medición de radiación UV
 
-Sistema electrónico para medir la radiación ultravioleta (UV) mediante un sensor **GUVA-S12SD** y representar el nivel de riesgo a través de cinco indicadores luminosos controlados por Arduino UNO.
+Sistema electrónico para medir la radiación ultravioleta (UV) mediante un sensor **GUVA-S12SD** y representar el nivel de riesgo a la exposición solar a través de cinco indicadores luminosos controlados por un microcontrolador basado en Arduino UNO.
 
 El proyecto busca desarrollar una herramienta educativa y de concientización sobre los efectos de la radiación ultravioleta en la salud, facilitando la interpretación del índice UV mediante un sistema visual similar a un semáforo.
 
